@@ -1,0 +1,28 @@
+html {
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-display: swap;
+
+  /* https://coolors.co/0c1821-1b2a41-324a5f-ff2e00-20fc8f */
+  --bg-root: #0c1821;
+  --bg-card: #1b2a41;
+  --bg-tag: #273d5e;
+  --border: #324a5f;
+  --text: #f1f7ed;
+  --desc-text: hsl(0, 0%, 63%);
+  --green: #20fc8f;
+  --orange: #ff2e00;
+  --blue: #00b4d8;
+  --pink: #db3069;
+  --corn: #8390fa;
+  --yellow: #bfae48;
+
+  --alt-bg: #0a111f;
+  --alt-card: #0f192e;
+  --alt-border: #19294d;
+  --alt-tag-border: transparent;
+  --alt-yellow: #fca311;
+  --alt-light: #a3b7b8;
+  --alt-green: #2ba84a;
+  --alt-red: #da2c38;
+}

@@ -1,0 +1,416 @@
+[
+  {
+    "name": "Google Material Icons",
+    "desc": "High quality icons adhering to the material design specification.",
+    "url": "https://fonts.google.com/icons",
+    "logo": "/public/logos/material.svg",
+    "licence": "Apache License 2.0",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": true,
+      "formats": ["svg", "png"]
+    },
+    "count": "1k+",
+    "rating": 5,
+    "id": "material"
+  },
+  {
+    "name": "Font Awesome",
+    "desc": "One script tag or npm install to setup and use by inserting HTML element classes",
+    "url": "https://fontawesome.com/v6.0/icons?m=free",
+    "logo": "/public/logos/awesome.svg",
+    "licence": "CC-BY 4.0",
+    "filters": {
+      "attribution": true,
+      "login": true,
+      "commercial": true,
+      "formats": ["svg"]
+    },
+    "count": "1k+",
+    "rating": 4,
+    "id": "awesome"
+  },
+  {
+    "name": "Streamline Icons",
+    "desc": "Dozens of interesting and smart high quality icon styles.",
+    "url": "https://app.streamlinehq.com/icons",
+    "logo": "/public/logos/streamline.svg",
+    "licence": "Streamline licence",
+    "filters": {
+      "attribution": true,
+      "login": false,
+      "commercial": true,
+      "formats": ["png", "svg"]
+    },
+    "count": "100k+",
+    "rating": 4,
+    "id": "streamline"
+  },
+  {
+    "name": "Phosphor icons",
+    "desc": "Consistent and slightly rounded high quality icons. Actively being contributed to. Can be included with a one liner script tag and used with classes much like FontAwesome.",
+    "url": "https://phosphoricons.com/",
+    "logo": "/public/logos/phosphor.png",
+    "licence": "MIT",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": true,
+      "formats": ["svg"]
+    },
+    "count": "800+",
+    "rating": 5,
+    "id": "phosphor"
+  },
+  {
+    "name": "System UIcons",
+    "desc": "Simple, smart and well-rounded icons specifically designed for systems and products. Options to copy SVG code, CDN link, or download.",
+    "url": "https://systemuicons.com/",
+    "logo": "/public/logos/system.svg",
+    "licence": "The Unlicense",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": true,
+      "formats": ["svg"]
+    },
+    "count": "400+",
+    "rating": 5,
+    "id": "system"
+  },
+  {
+    "name": "Hero icons",
+    "desc": "Collection of icons from the makers of Tailwind CSS. Includes React and Vue libraries.",
+    "url": "https://heroicons.com/",
+    "logo": "/public/logos/hero.svg",
+    "licence": "MIT",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": true,
+      "formats": ["svg", "fig"]
+    },
+    "count": "200+",
+    "rating": 5,
+    "id": "hero"
+  },
+  {
+    "name": "3dicons",
+    "desc": "Super high quality renders of 3D models in three different orientations and four different colour options.",
+    "url": "https://3dicons.co",
+    "logo": "/public/logos/3d.svg",
+    "licence": "CC0",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": true,
+      "formats": ["png", "fig", "blend", "fbx"]
+    },
+    "count": "100+",
+    "rating": 5,
+    "id": "3d"
+  },
+  {
+    "name": "Glyphs",
+    "desc": "Editable Figma icons, available as web components, CLI utility, powerful search function, good documentation. What's not to love?",
+    "url": "https://glyphs.fyi/",
+    "logo": "/public/logos/glyph.svg",
+    "licence": "MIT",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": true,
+      "formats": ["svg", "fig"]
+    },
+    "count": "5k+",
+    "rating": 5,
+    "id": "glyph"
+  },
+  {
+    "name": "Graphic Burger",
+    "desc": "Assortment of colourful niche icons, including 3D isometric, stylised emoticons, and 80's gadgets.",
+    "url": "https://graphicburger.com/icons-set/",
+    "logo": "/public/logos/burger.svg",
+    "licence": "Graphic Burger Licence",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": true,
+      "formats": ["svg", "png", "ai"]
+    },
+    "count": "5k+",
+    "rating": 4,
+    "id": "burger"
+  },
+  {
+    "name": "Squid Ink Flat Icons",
+    "desc": "Colourful and unique flat icons",
+    "url": "https://thesquid.ink/flat-icons/",
+    "logo": "/public/logos/flag.svg",
+    "licence": "Squid Ink Licence",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": true,
+      "formats": ["svg", "png", "eps", "ai", "psd"]
+    },
+    "count": "50",
+    "rating": 4,
+    "id": "squid"
+  },
+  {
+    "name": "Flagpack",
+    "desc": "React, Vue and Svelte components for high quality flag icons.",
+    "url": "https://flagpack.xyz/",
+    "logo": "/public/logos/flag.svg",
+    "licence": "CC-BY 3.0",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": true,
+      "formats": ["svg"]
+    },
+    "count": "250+",
+    "rating": 5,
+    "id": "flag"
+  },
+  {
+    "name": "Health Icons",
+    "desc": "Health/medical themed icons in three styles.",
+    "url": "https://healthicons.org/",
+    "logo": "/public/logos/health.svg",
+    "licence": "MIT",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": false,
+      "formats": ["svg", "png"]
+    },
+    "count": "500+",
+    "rating": 5,
+    "id": "health"
+  },
+  {
+    "name": "The Noun Project",
+    "desc": "An extensive and diverse iconset for everything.",
+    "url": "https://thenounproject.com",
+    "logo": "/public/logos/noun.svg",
+    "licence": "CC-BY 3.0",
+    "filters": {
+      "attribution": true,
+      "login": true,
+      "commercial": true,
+      "formats": ["svg", "png"]
+    },
+    "count": "3M+",
+    "rating": 4,
+    "id": "noun"
+  },
+  {
+    "name": "IconScout",
+    "desc": "More informal, rounded and thicker icons.",
+    "url": "https://iconscout.com/free-icons/",
+    "logo": "/public/logos/scout.svg",
+    "licence": "Apache License 2.0",
+    "filters": {
+      "attribution": true,
+      "login": true,
+      "commercial": true,
+      "formats": ["svg", "png", "pdf", "eps", "ai", "ico", "icns"]
+    },
+    "count": "3M+",
+    "rating": 4,
+    "id": "scout"
+  },
+  {
+    "name": "Flaticon",
+    "desc": "Massive (millions!) range of icons and styles.",
+    "url": "https://www.flaticon.com/",
+    "logo": "/public/logos/flaticon.svg",
+    "licence": "Flaticon License",
+    "filters": {
+      "attribution": true,
+      "login": false,
+      "commercial": true,
+      "formats": ["png"]
+    },
+    "count": "6M+",
+    "rating": 4,
+    "id": "flaticon"
+  },
+  {
+    "name": "Captain Icon",
+    "desc": "Fun and wonky icons",
+    "url": "https://mariodelvalle.github.io/CaptainIconWeb/",
+    "logo": "/public/logos/captain.svg",
+    "licence": "CC-BY-SA",
+    "filters": {
+      "attribution": true,
+      "login": false,
+      "commercial": true,
+      "formats": ["svg", "png", "psd", "eps"]
+    },
+    "count": "350+",
+    "rating": 4,
+    "id": "captain"
+  },
+  {
+    "name": "Remix Icon",
+    "desc": "Some very useful and obscure icons.",
+    "url": "https://remixicon.com/",
+    "logo": "/public/logos/remix.svg",
+    "licence": "Apache License 2.0",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": true,
+      "formats": ["svg"]
+    },
+    "count": "2k+",
+    "rating": 5,
+    "id": "remix"
+  },
+  {
+    "name": "Iconshock 3D",
+    "desc": "Small in resolution but quite varied. Includes some popular brands' logos",
+    "url": "https://www.iconshock.com/3d-icons",
+    "logo": "/public/logos/shock.svg",
+    "licence": "Iconshock Licence",
+    "filters": {
+      "attribution": true,
+      "login": true,
+      "commercial": false,
+      "formats": ["png"]
+    },
+    "count": "4k+",
+    "rating": 3,
+    "id": "shock"
+  },
+  {
+    "name": "Graphic Surf",
+    "desc": "Packs of 20 colourful, flat icons for many specific fields including sets like pizza, blockchain, and firefighter.",
+    "url": "https://graphicsurf.com/category/icons/",
+    "logo": "/public/logos/surf.svg",
+    "licence": "Graphic Surf Licence",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": true,
+      "formats": ["svg"]
+    },
+    "count": "3k+",
+    "rating": 4,
+    "id": "surf"
+  },
+  {
+    "name": "Twemoji",
+    "desc": "Twitter's open source emoji library.",
+    "url": "https://twemoji.twitter.com/",
+    "logo": "/public/logos/twitter.svg",
+    "licence": "CC-BY 4.0",
+    "filters": {
+      "attribution": true,
+      "login": false,
+      "commercial": true,
+      "formats": ["png", "svg"]
+    },
+    "count": "3k+",
+    "rating": 5,
+    "id": "twitter"
+  },
+  {
+    "name": "OpenMoji",
+    "desc": "Open source emoji iconset.",
+    "url": "https://openmoji.org",
+    "logo": "/public/logos/moji.svg",
+    "licence": "CC-BY-SA 4.0",
+    "filters": {
+      "attribution": true,
+      "login": false,
+      "commercial": true,
+      "formats": ["png", "svg"]
+    },
+    "count": "3k+",
+    "rating": 5,
+    "id": "moji"
+  },
+  {
+    "name": "Weather Icons",
+    "desc": "Wide range of weather & moon cycle icons. Can be used with classes much like FontAwesome.",
+    "url": "https://erikflowers.github.io/weather-icons/",
+    "logo": "/public/logos/weather.svg",
+    "licence": "CC-BY 3.0",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": true,
+      "formats": ["svg", "otf", "ttf"]
+    },
+    "count": "200+",
+    "rating": 4,
+    "id": "weather"
+  },
+  {
+    "name": "Icons8",
+    "desc": "Some unusual iconsets such as 'stickers' and 'doodle'.",
+    "url": "https://icons8.com/icons/pack/free-icons",
+    "logo": "/public/logos/icons8.svg",
+    "licence": "Icons8 License",
+    "filters": {
+      "attribution": true,
+      "login": false,
+      "commercial": true,
+      "formats": ["png", "svg", "pdf"]
+    },
+    "rating": 4,
+    "id": "icons8"
+  },
+  {
+    "name": "Boring Avatars",
+    "desc": "A random avatar is generated for every possible username and colour palette",
+    "url": "https://boringavatars.com/",
+    "logo": "/public/logos/boring.svg",
+    "licence": "MIT",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": true,
+      "formats": ["svg"]
+    },
+    "count": "Infinite",
+    "rating": 5,
+    "id": "boring"
+  },
+  {
+    "name": "Bioicons",
+    "desc": "A library of free open source icons for science illustrations in biology and chemistry",
+    "url": "https://bioicons.com/",
+    "logo": "/public/logos/bio.svg",
+    "licence": "MIT",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": true,
+      "formats": ["svg"]
+    },
+    "count": "1k+",
+    "rating": 3,
+    "id": "bio"
+  },
+  {
+    "name": "CSS Icons",
+    "desc": "Assorted icons available in a wide range of formats, if inconsistent.",
+    "url": "https://graphicsurf.com/category/icons/",
+    "logo": "MIT",
+    "filters": {
+      "attribution": false,
+      "login": false,
+      "commercial": true,
+      "formats": ["svg", "css", "tsx", "fig", "xd", "json", "xml"]
+    },
+    "count": "700+",
+    "rating": 3,
+    "id": "css"
+  }
+]
