@@ -402,7 +402,7 @@
     "name": "CSS Icons",
     "desc": "Open-source CSS, SVG and Figma UI Icons, available in SVG Sprite, styled-components, NPM & API",
     "url": "https://css.gg/",
-    "github": "https://github.com/astrit/css.gg"
+    "github": "https://github.com/astrit/css.gg",
     "logo": "",
     "licence": "MIT",
     "filters": {
